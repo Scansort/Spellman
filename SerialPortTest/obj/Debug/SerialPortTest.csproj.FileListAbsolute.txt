@@ -1,0 +1,66 @@
+D:\Repository\SerialPortTest\SerialPortTest\bin\Debug\SerialPortTest.exe.config
+D:\Repository\SerialPortTest\SerialPortTest\bin\Debug\SerialPortTest.exe
+D:\Repository\SerialPortTest\SerialPortTest\bin\Debug\SerialPortTest.pdb
+D:\Repository\SerialPortTest\SerialPortTest\obj\Debug\SerialPortTest.csprojResolveAssemblyReference.cache
+D:\Repository\SerialPortTest\SerialPortTest\obj\Debug\SerialPortTest.Form1.resources
+D:\Repository\SerialPortTest\SerialPortTest\obj\Debug\SerialPortTest.Properties.Resources.resources
+D:\Repository\SerialPortTest\SerialPortTest\obj\Debug\SerialPortTest.csproj.GenerateResource.Cache
+D:\Repository\SerialPortTest\SerialPortTest\obj\Debug\SerialPortTest.exe
+D:\Repository\SerialPortTest\SerialPortTest\obj\Debug\SerialPortTest.pdb
+I:\SerialPortTest\SerialPortTest\bin\Debug\SerialPortTest.exe.config
+I:\SerialPortTest\SerialPortTest\obj\Debug\SerialPortTest.exe
+I:\SerialPortTest\SerialPortTest\obj\Debug\SerialPortTest.pdb
+I:\SerialPortTest\SerialPortTest\bin\Debug\SerialPortTest.exe
+I:\SerialPortTest\SerialPortTest\bin\Debug\SerialPortTest.pdb
+I:\SerialPortTest\SerialPortTest\obj\Debug\SerialPortTest.csprojResolveAssemblyReference.cache
+I:\SerialPortTest\SerialPortTest\obj\Debug\SerialPortTest.Form1.resources
+I:\SerialPortTest\SerialPortTest\obj\Debug\SerialPortTest.Properties.Resources.resources
+I:\SerialPortTest\SerialPortTest\obj\Debug\SerialPortTest.csproj.GenerateResource.Cache
+H:\SerialPortTest\SerialPortTest\bin\Debug\SerialPortTest.exe.config
+H:\SerialPortTest\SerialPortTest\obj\Debug\SerialPortTest.exe
+H:\SerialPortTest\SerialPortTest\obj\Debug\SerialPortTest.pdb
+H:\SerialPortTest\SerialPortTest\bin\Debug\SerialPortTest.exe
+H:\SerialPortTest\SerialPortTest\bin\Debug\SerialPortTest.pdb
+H:\SerialPortTest\SerialPortTest\obj\Debug\SerialPortTest.csprojResolveAssemblyReference.cache
+H:\SerialPortTest\SerialPortTest\obj\Debug\SerialPortTest.Form1.resources
+H:\SerialPortTest\SerialPortTest\obj\Debug\SerialPortTest.Properties.Resources.resources
+H:\SerialPortTest\SerialPortTest\obj\Debug\SerialPortTest.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\SerialPortTest\SerialPortTest\bin\Debug\SerialPortTest.exe.config
+C:\Users\Admin\Desktop\SerialPortTest\SerialPortTest\obj\Debug\SerialPortTest.exe
+C:\Users\Admin\Desktop\SerialPortTest\SerialPortTest\obj\Debug\SerialPortTest.pdb
+C:\Users\Admin\Desktop\SerialPortTest\SerialPortTest\bin\Debug\SerialPortTest.exe
+C:\Users\Admin\Desktop\SerialPortTest\SerialPortTest\bin\Debug\SerialPortTest.pdb
+C:\Users\Admin\Desktop\SerialPortTest\SerialPortTest\obj\Debug\SerialPortTest.Form1.resources
+C:\Users\Admin\Desktop\SerialPortTest\SerialPortTest\obj\Debug\SerialPortTest.Properties.Resources.resources
+C:\Users\Admin\Desktop\SerialPortTest\SerialPortTest\obj\Debug\SerialPortTest.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\SerialPortTest\SerialPortTest\obj\Debug\SerialPortTest.csprojResolveAssemblyReference.cache
+C:\Repository\WorkScansort\SerialPortTest\SerialPortTest\bin\Debug\SerialPortTest.exe.config
+C:\Repository\WorkScansort\SerialPortTest\SerialPortTest\obj\Debug\SerialPortTest.exe
+C:\Repository\WorkScansort\SerialPortTest\SerialPortTest\obj\Debug\SerialPortTest.pdb
+C:\Repository\WorkScansort\SerialPortTest\SerialPortTest\bin\Debug\SerialPortTest.exe
+C:\Repository\WorkScansort\SerialPortTest\SerialPortTest\bin\Debug\SerialPortTest.pdb
+C:\Repository\WorkScansort\SerialPortTest\SerialPortTest\obj\Debug\SerialPortTest.csprojResolveAssemblyReference.cache
+C:\Repository\WorkScansort\SerialPortTest\SerialPortTest\obj\Debug\SerialPortTest.Form1.resources
+C:\Repository\WorkScansort\SerialPortTest\SerialPortTest\obj\Debug\SerialPortTest.Properties.Resources.resources
+C:\Repository\WorkScansort\SerialPortTest\SerialPortTest\obj\Debug\SerialPortTest.csproj.GenerateResource.Cache
+H:\Новая папка (2)\SerialPortTest\SerialPortTest\bin\Debug\SerialPortTest.exe.config
+H:\Новая папка (2)\SerialPortTest\SerialPortTest\obj\Debug\SerialPortTest.exe
+H:\Новая папка (2)\SerialPortTest\SerialPortTest\obj\Debug\SerialPortTest.pdb
+H:\Новая папка (2)\SerialPortTest\SerialPortTest\bin\Debug\SerialPortTest.exe
+H:\Новая папка (2)\SerialPortTest\SerialPortTest\bin\Debug\SerialPortTest.pdb
+H:\Новая папка (2)\SerialPortTest\SerialPortTest\obj\Debug\SerialPortTest.csprojResolveAssemblyReference.cache
+H:\Новая папка (2)\SerialPortTest\SerialPortTest\obj\Debug\SerialPortTest.Form1.resources
+H:\Новая папка (2)\SerialPortTest\SerialPortTest\obj\Debug\SerialPortTest.Properties.Resources.resources
+H:\Новая папка (2)\SerialPortTest\SerialPortTest\obj\Debug\SerialPortTest.csproj.GenerateResource.Cache
+D:\Repository\Work\SerialPortTest\SerialPortTest\bin\Debug\SerialPortTest.exe.config
+D:\Repository\Work\SerialPortTest\SerialPortTest\obj\Debug\SerialPortTest.exe
+D:\Repository\Work\SerialPortTest\SerialPortTest\obj\Debug\SerialPortTest.pdb
+D:\Repository\Work\SerialPortTest\SerialPortTest\bin\Debug\SerialPortTest.exe
+D:\Repository\Work\SerialPortTest\SerialPortTest\bin\Debug\SerialPortTest.pdb
+D:\Repository\Work\SerialPortTest\SerialPortTest\obj\Debug\SerialPortTest.csprojResolveAssemblyReference.cache
+D:\Repository\Work\SerialPortTest\SerialPortTest\obj\Debug\SerialPortTest.Form1.resources
+D:\Repository\Work\SerialPortTest\SerialPortTest\obj\Debug\SerialPortTest.Properties.Resources.resources
+D:\Repository\Work\SerialPortTest\SerialPortTest\obj\Debug\SerialPortTest.csproj.GenerateResource.Cache
+C:\Repository\Work\SerialPortTest\SerialPortTest\bin\Debug\SerialPortTest.exe.config
+C:\Repository\Work\SerialPortTest\SerialPortTest\obj\Debug\SerialPortTest.exe
+C:\Repository\Work\SerialPortTest\SerialPortTest\obj\Debug\SerialPortTest.pdb

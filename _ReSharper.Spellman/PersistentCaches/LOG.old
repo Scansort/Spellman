@@ -1,0 +1,5 @@
+2015/02/06-14:47:47.067 28dc Recovering log #67
+2015/02/06-14:47:47.067 28dc Level-0 table #69: started
+2015/02/06-14:47:47.125 28dc Level-0 table #69: 55666 bytes OK
+2015/02/06-14:47:47.130 28dc Delete type=0 #67
+2015/02/06-14:47:47.130 28dc Delete type=3 #65
